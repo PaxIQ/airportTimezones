@@ -1,0 +1,14 @@
+{
+  "name": "airporttimezones",
+  "version": "1.0.0",
+  "description": "A static JSON file containing IATA codes and their associated timezone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Bradley",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.18.0"
+  }
+}
