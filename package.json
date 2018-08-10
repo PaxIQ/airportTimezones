@@ -1,6 +1,6 @@
 {
-  "name": "airporttimezones",
-  "version": "1.0.0",
+  "name": "airportTimezones",
+  "version": "1.1.0",
   "description": "A static JSON file containing IATA codes and their associated timezone.",
   "main": "index.js",
   "scripts": {
